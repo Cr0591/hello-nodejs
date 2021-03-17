@@ -102,3 +102,4 @@ var timer = setInterval(function () {
 console.dir(global);
 ~~~
 
+test actions
